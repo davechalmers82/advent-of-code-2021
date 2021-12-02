@@ -16,3 +16,14 @@ increase_count=1781
 
 ## Day 2
 
+### Part 01
+```
+$ python day_02.py
+result=1451208
+```
+
+### Part 02
+```
+$ python day_02.py --use-aim
+result=1620141160
+```
